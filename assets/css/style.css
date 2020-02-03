@@ -211,10 +211,27 @@ input[type=submit] {
         left: 198px;
     }
 
-    
 }
 
 @media screen and (max-width: 768px) {
+
+    .container {
+        width: 80%;
+        height: fit-content;
+        margin: 40px;
+    }
+
+    .nav {
+        margin-right: 357px;
+    }
+
+    #Textbox_Game, #Textbox_Projects {
+        left: 232px;
+    }
+
+    section {
+        padding-bottom: 160%;
+    }
 
     
 }
