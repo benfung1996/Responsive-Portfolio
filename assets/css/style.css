@@ -238,14 +238,87 @@ input[type=submit] {
 
 @media screen and (max-width: 640px) {
 
-    body {
-        position: relative;
-    }
-
     .header {
         position: static;
+        margin: 0 auto;
+    }
+
+    .name {
+        width: 600px;
+        position: relative;
+        top: -25px;
+        text-align: center;
+    }
+
+    .container {
+        width: 80%;
+        height: fit-content;
+        margin: 40px;
     }
     
+    .nav {
+        background-color: #ffffff;
+        padding: 20px;
+        width: 600px;
+        position: relative;
+        top: -25px;
+        left: -20px;
+        text-align: center;
+    }
 
-    
+    img {
+        width: 497px;
+        height: 600px;
+        float: left;
+        padding: 20px 20px 20px 0;
+    }
+
+    .portfolio_images {
+        float: left;
+        width: 100%;
+        height: 100%;
+    }
+
+    #Textbox_Music {
+
+        width: 100%;
+        bottom: -400px;
+
+    }
+
+    #Textbox_Game {
+
+        width: 100%;
+        bottom: -950px;
+        left: 0px;
+
+    }
+
+    #Textbox_Corgi {
+
+        width: 100%;
+        bottom: -1500px;
+
+    }
+
+    #Textbox_Projects {
+
+        width: 100%;
+        bottom: -1900px;
+        left: 0px;
+
+    }
+
+    #Textbox_Resume {
+
+        width: 100%;
+        bottom: -2450px;
+
+    }
+
+    html {
+        background-image: url("../images/Grey.jpg");
+    }
+
+
 }
