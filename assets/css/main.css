@@ -2355,10 +2355,12 @@
 			display: block;
 			margin: 0 0 2rem 0;
 			width: 100%;
+
 		}
 
 			.image.fit img {
 				width: 100%;
+				height: 279px;
 			}
 
 		.image.main {
@@ -4302,6 +4304,16 @@
 			margin: 0 0 2rem 0;
 			padding: 0;
 			text-align: center;
+		}
+
+		#text-color {
+				font-size: .90rem;
+				font-weight: 200;
+				margin: 0 0 .5rem 0;
+				padding: 0 0 1rem 0;
+				letter-spacing: .25rem;
+				color: #999999;
+				
 		}
 
 		@media screen and (max-width: 736px) {
