@@ -10532,3 +10532,25 @@ section#contact form#contactForm :-ms-input-placeholder {
 .mailto-link:focus-within .mailto-message {
 	display: block;
 }
+
+.tech-icon img {
+  padding: 15px;
+  height: 8em;
+}
+
+#experience-header {
+  padding: 10px 0px 70px;
+}
+
+#tech-title {
+  padding: 0px 0px 30px 25px;
+}
+
+#edu-title {
+  padding: 0px 0px 30px 145px;
+}
+
+#edu-icon {
+height: 16em;
+padding-left: 6em;
+}
