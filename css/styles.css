@@ -475,7 +475,8 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 17em;
+  width: 23em;
 }
 
 .img-thumbnail {
@@ -6648,6 +6649,7 @@ button.bg-dark:focus {
 
 .align-items-center {
   align-items: center !important;
+  padding: 10px;
 }
 
 .align-items-baseline {
@@ -10553,4 +10555,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 #edu-icon {
 height: 16em;
 padding-left: 6em;
+}
+
+.img-fluid-modal {
+  height: 100%;
+  width: 100%;
+  padding: 20px;
 }
