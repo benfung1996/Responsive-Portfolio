@@ -5,7 +5,7 @@ This is a professional portfolio with list deployed projects, skill set, passion
 ## Deployed Link
 https://benfung1996.github.io/Responsive-Portfolio/
 
-![](Images/portfolio.png)
-
 ## Tool Used
 HTML, CSS, Bootstrap4
+
+![](Images/portfolio.png)
